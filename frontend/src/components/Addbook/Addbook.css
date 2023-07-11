@@ -1,0 +1,28 @@
+#addbook-container{
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+}
+#addbook-container input {
+    width: 100%;
+    border-radius: 23px;
+    outline: none;
+    border: 1px solid gray;
+    height: 30px;
+    font-size: 20px;
+}
+/* #description-div input{
+    height: 250px;
+   text-align:initial;
+} */
+#btn button{
+    width: 100%;
+    border-radius: 23px;
+    height: 35px;
+    margin-top: 5%;
+    outline: none;
+    border: 1px solid gray;
+    font-size: 18px;
+    color: white;
+    background-color:rgb(99, 62, 208) ;
+}
